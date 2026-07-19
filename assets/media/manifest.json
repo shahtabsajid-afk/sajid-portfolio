@@ -1,0 +1,2235 @@
+{
+  "logo": {
+    "width": 1512,
+    "height": 1695,
+    "aspect": 0.89204,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/logo-960.webp"
+      },
+      {
+        "width": 1512,
+        "src": "assets/media/logo-1512.webp"
+      }
+    ]
+  },
+  "convivo-hero": {
+    "width": 6140,
+    "height": 4096,
+    "aspect": 1.49902,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-hero-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-hero-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-hero-2400.webp"
+      }
+    ]
+  },
+  "mental-hero": {
+    "width": 5000,
+    "height": 2650,
+    "aspect": 1.88679,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-hero-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-hero-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-hero-2400.webp"
+      }
+    ]
+  },
+  "kiam-hero": {
+    "width": 3000,
+    "height": 1688,
+    "aspect": 1.77725,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-hero-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-hero-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-hero-2400.webp"
+      }
+    ]
+  },
+  "convivo-brief": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-brief-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-brief-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-brief-2400.webp"
+      }
+    ]
+  },
+  "convivo-vision": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-vision-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-vision-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-vision-2400.webp"
+      }
+    ]
+  },
+  "convivo-context": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-context-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-context-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-context-2400.webp"
+      }
+    ]
+  },
+  "convivo-gathering": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-gathering-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-gathering-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-gathering-2400.webp"
+      }
+    ]
+  },
+  "convivo-means-more": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-means-more-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-means-more-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-means-more-2400.webp"
+      }
+    ]
+  },
+  "convivo-before-covid": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-before-covid-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-before-covid-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-before-covid-2400.webp"
+      }
+    ]
+  },
+  "convivo-other-side": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-other-side-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-other-side-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-other-side-2400.webp"
+      }
+    ]
+  },
+  "convivo-persona": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-persona-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-persona-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-persona-2400.webp"
+      }
+    ]
+  },
+  "convivo-open-floor": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-open-floor-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-open-floor-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-open-floor-2400.webp"
+      }
+    ]
+  },
+  "convivo-social-centre": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-social-centre-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-social-centre-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-social-centre-2400.webp"
+      }
+    ]
+  },
+  "convivo-reveal": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-reveal-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-reveal-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-reveal-2400.webp"
+      }
+    ]
+  },
+  "convivo-intro": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-intro-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-intro-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-intro-2400.webp"
+      }
+    ]
+  },
+  "convivo-blending": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-blending-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-blending-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-blending-2400.webp"
+      }
+    ]
+  },
+  "convivo-adaptation": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-adaptation-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-adaptation-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-adaptation-2400.webp"
+      }
+    ]
+  },
+  "convivo-gathering-concept": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-gathering-concept-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-gathering-concept-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-gathering-concept-2400.webp"
+      }
+    ]
+  },
+  "convivo-living-side": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-living-side-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-living-side-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-living-side-2400.webp"
+      }
+    ]
+  },
+  "convivo-kitchen-side": {
+    "width": 4000,
+    "height": 2426,
+    "aspect": 1.6488,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-kitchen-side-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-kitchen-side-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-kitchen-side-2400.webp"
+      }
+    ]
+  },
+  "convivo-triangle": {
+    "width": 4500,
+    "height": 2531,
+    "aspect": 1.77795,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-triangle-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-triangle-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-triangle-2400.webp"
+      }
+    ]
+  },
+  "convivo-greeting": {
+    "width": 3840,
+    "height": 2160,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-greeting-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-greeting-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-greeting-2400.webp"
+      }
+    ]
+  },
+  "convivo-positions": {
+    "width": 3840,
+    "height": 2160,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-positions-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-positions-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-positions-2400.webp"
+      }
+    ]
+  },
+  "convivo-panels-1": {
+    "width": 4400,
+    "height": 3495,
+    "aspect": 1.25894,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-panels-1-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-panels-1-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-panels-1-2400.webp"
+      }
+    ]
+  },
+  "convivo-panels-2": {
+    "width": 4400,
+    "height": 3495,
+    "aspect": 1.25894,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-panels-2-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-panels-2-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-panels-2-2400.webp"
+      }
+    ]
+  },
+  "convivo-panels-3": {
+    "width": 4400,
+    "height": 3495,
+    "aspect": 1.25894,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-panels-3-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-panels-3-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-panels-3-2400.webp"
+      }
+    ]
+  },
+  "convivo-drawers": {
+    "width": 3840,
+    "height": 2160,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-drawers-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-drawers-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-drawers-2400.webp"
+      }
+    ]
+  },
+  "convivo-hidden": {
+    "width": 3840,
+    "height": 2160,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-hidden-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-hidden-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-hidden-2400.webp"
+      }
+    ]
+  },
+  "convivo-social-hub": {
+    "width": 4500,
+    "height": 2531,
+    "aspect": 1.77795,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-social-hub-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-social-hub-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-social-hub-2400.webp"
+      }
+    ]
+  },
+  "convivo-mess": {
+    "width": 3220,
+    "height": 1954,
+    "aspect": 1.6479,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-mess-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-mess-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-mess-2400.webp"
+      }
+    ]
+  },
+  "convivo-strategic": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-strategic-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-strategic-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-strategic-2376.webp"
+      }
+    ]
+  },
+  "convivo-components": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-components-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-components-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-components-2376.webp"
+      }
+    ]
+  },
+  "convivo-storage": {
+    "width": 1920,
+    "height": 1080,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-storage-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-storage-1600.webp"
+      },
+      {
+        "width": 1920,
+        "src": "assets/media/convivo-storage-1920.webp"
+      }
+    ]
+  },
+  "convivo-pantry": {
+    "width": 1980,
+    "height": 1080,
+    "aspect": 1.83333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-pantry-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-pantry-1600.webp"
+      },
+      {
+        "width": 1980,
+        "src": "assets/media/convivo-pantry-1980.webp"
+      }
+    ]
+  },
+  "convivo-language": {
+    "width": 1920,
+    "height": 1080,
+    "aspect": 1.77778,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-language-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-language-1600.webp"
+      },
+      {
+        "width": 1920,
+        "src": "assets/media/convivo-language-1920.webp"
+      }
+    ]
+  },
+  "convivo-ventilation": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-ventilation-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-ventilation-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-ventilation-2376.webp"
+      }
+    ]
+  },
+  "convivo-modular": {
+    "width": 1920,
+    "height": 1441,
+    "aspect": 1.33241,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-modular-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-modular-1600.webp"
+      },
+      {
+        "width": 1920,
+        "src": "assets/media/convivo-modular-1920.webp"
+      }
+    ]
+  },
+  "convivo-exploded": {
+    "width": 1500,
+    "height": 1441,
+    "aspect": 1.04094,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-exploded-960.webp"
+      },
+      {
+        "width": 1500,
+        "src": "assets/media/convivo-exploded-1500.webp"
+      }
+    ]
+  },
+  "convivo-custom": {
+    "width": 1604,
+    "height": 981,
+    "aspect": 1.63507,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-custom-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-custom-1600.webp"
+      },
+      {
+        "width": 1604,
+        "src": "assets/media/convivo-custom-1604.webp"
+      }
+    ]
+  },
+  "convivo-sink": {
+    "width": 3220,
+    "height": 1954,
+    "aspect": 1.6479,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-sink-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-sink-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-sink-2400.webp"
+      }
+    ]
+  },
+  "convivo-prep": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-prep-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-prep-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-prep-2376.webp"
+      }
+    ]
+  },
+  "convivo-standalone": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-standalone-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-standalone-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-standalone-2376.webp"
+      }
+    ]
+  },
+  "convivo-open": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-open-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-open-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-open-2376.webp"
+      }
+    ]
+  },
+  "convivo-oxide": {
+    "width": 5000,
+    "height": 3034,
+    "aspect": 1.64799,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-oxide-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-oxide-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-oxide-2400.webp"
+      }
+    ]
+  },
+  "convivo-green": {
+    "width": 5000,
+    "height": 3034,
+    "aspect": 1.64799,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-green-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-green-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-green-2400.webp"
+      }
+    ]
+  },
+  "convivo-burgundy": {
+    "width": 5000,
+    "height": 3034,
+    "aspect": 1.64799,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-burgundy-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-burgundy-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-burgundy-2400.webp"
+      }
+    ]
+  },
+  "convivo-end": {
+    "width": 4000,
+    "height": 2429,
+    "aspect": 1.64677,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-end-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-end-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/convivo-end-2400.webp"
+      }
+    ]
+  },
+  "mental-brief": {
+    "width": 1122,
+    "height": 887,
+    "aspect": 1.26494,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-brief-960.webp"
+      },
+      {
+        "width": 1122,
+        "src": "assets/media/mental-brief-1122.webp"
+      }
+    ]
+  },
+  "mental-context": {
+    "width": 1375,
+    "height": 1144,
+    "aspect": 1.20192,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-context-960.webp"
+      },
+      {
+        "width": 1375,
+        "src": "assets/media/mental-context-1375.webp"
+      }
+    ]
+  },
+  "mental-front": {
+    "width": 1586,
+    "height": 992,
+    "aspect": 1.59879,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-front-960.webp"
+      },
+      {
+        "width": 1586,
+        "src": "assets/media/mental-front-1586.webp"
+      }
+    ]
+  },
+  "mental-emotional": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-emotional-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-emotional-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-emotional-2400.webp"
+      }
+    ]
+  },
+  "mental-gathering": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-gathering-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-gathering-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-gathering-2400.webp"
+      }
+    ]
+  },
+  "mental-home-theatre": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-home-theatre-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-home-theatre-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-home-theatre-2400.webp"
+      }
+    ]
+  },
+  "mental-multifunction": {
+    "width": 5000,
+    "height": 6248,
+    "aspect": 0.80026,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-multifunction-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-multifunction-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-multifunction-2400.webp"
+      }
+    ]
+  },
+  "mental-rhino": {
+    "width": 5000,
+    "height": 3123,
+    "aspect": 1.60102,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-rhino-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-rhino-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-rhino-2400.webp"
+      }
+    ]
+  },
+  "mental-blender": {
+    "width": 5000,
+    "height": 3123,
+    "aspect": 1.60102,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-blender-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-blender-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-blender-2400.webp"
+      }
+    ]
+  },
+  "mental-prototype": {
+    "width": 5000,
+    "height": 3760,
+    "aspect": 1.32979,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-prototype-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-prototype-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-prototype-2400.webp"
+      }
+    ]
+  },
+  "mental-post": {
+    "width": 5000,
+    "height": 3094,
+    "aspect": 1.61603,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-post-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-post-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-post-2400.webp"
+      }
+    ]
+  },
+  "mental-config": {
+    "width": 5772,
+    "height": 2772,
+    "aspect": 2.08225,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-config-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-config-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-config-2400.webp"
+      }
+    ]
+  },
+  "mental-sofa": {
+    "width": 5772,
+    "height": 2772,
+    "aspect": 2.08225,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-sofa-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-sofa-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-sofa-2400.webp"
+      }
+    ]
+  },
+  "mental-language": {
+    "width": 4000,
+    "height": 2565,
+    "aspect": 1.55945,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-language-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-language-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-language-2400.webp"
+      }
+    ]
+  },
+  "mental-comfort": {
+    "width": 4000,
+    "height": 2403,
+    "aspect": 1.66459,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-comfort-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-comfort-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-comfort-2400.webp"
+      }
+    ]
+  },
+  "mental-object-experience": {
+    "width": 4000,
+    "height": 2120,
+    "aspect": 1.88679,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-object-experience-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-object-experience-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-object-experience-2400.webp"
+      }
+    ]
+  },
+  "mental-shared": {
+    "width": 4000,
+    "height": 2354,
+    "aspect": 1.69924,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-shared-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-shared-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-shared-2400.webp"
+      }
+    ]
+  },
+  "mental-quiet": {
+    "width": 4000,
+    "height": 2354,
+    "aspect": 1.69924,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-quiet-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-quiet-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-quiet-2400.webp"
+      }
+    ]
+  },
+  "mental-journey-1": {
+    "width": 4000,
+    "height": 2995,
+    "aspect": 1.33556,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-journey-1-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-journey-1-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-journey-1-2400.webp"
+      }
+    ]
+  },
+  "mental-journey-2": {
+    "width": 4000,
+    "height": 3087,
+    "aspect": 1.29576,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-journey-2-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-journey-2-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-journey-2-2400.webp"
+      }
+    ]
+  },
+  "mental-journey-3": {
+    "width": 4000,
+    "height": 3094,
+    "aspect": 1.29282,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-journey-3-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-journey-3-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-journey-3-2400.webp"
+      }
+    ]
+  },
+  "mental-journey-4": {
+    "width": 4000,
+    "height": 3094,
+    "aspect": 1.29282,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-journey-4-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-journey-4-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-journey-4-2400.webp"
+      }
+    ]
+  },
+  "mental-construction": {
+    "width": 9933,
+    "height": 14043,
+    "aspect": 0.70733,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-construction-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-construction-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-construction-2400.webp"
+      }
+    ]
+  },
+  "mental-shelving": {
+    "width": 14043,
+    "height": 9933,
+    "aspect": 1.41377,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-shelving-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-shelving-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-shelving-2400.webp"
+      }
+    ]
+  },
+  "mental-sofa-tech": {
+    "width": 9772,
+    "height": 9934,
+    "aspect": 0.98369,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-sofa-tech-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-sofa-tech-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-sofa-tech-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-01": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-01-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-01-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-01-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-02": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-02-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-02-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-02-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-03": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-03-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-03-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-03-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-04": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-04-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-04-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-04-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-05": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-05-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-05-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-05-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-06": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-06-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-06-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-06-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-07": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-07-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-07-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-07-2400.webp"
+      }
+    ]
+  },
+  "mental-detail-08": {
+    "width": 4000,
+    "height": 3088,
+    "aspect": 1.29534,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-detail-08-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-detail-08-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-detail-08-2400.webp"
+      }
+    ]
+  },
+  "mental-beyond": {
+    "width": 4000,
+    "height": 2120,
+    "aspect": 1.88679,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/mental-beyond-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/mental-beyond-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/mental-beyond-2400.webp"
+      }
+    ]
+  },
+  "kiam-about": {
+    "width": 4000,
+    "height": 3518,
+    "aspect": 1.13701,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-about-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-about-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-about-2400.webp"
+      }
+    ]
+  },
+  "kiam-brief": {
+    "width": 1448,
+    "height": 1086,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-brief-960.webp"
+      },
+      {
+        "width": 1448,
+        "src": "assets/media/kiam-brief-1448.webp"
+      }
+    ]
+  },
+  "kiam-context": {
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-context-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-context-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-context-2400.webp"
+      }
+    ]
+  },
+  "kiam-front": {
+    "width": 4000,
+    "height": 2251,
+    "aspect": 1.77699,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-front-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-front-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-front-2400.webp"
+      }
+    ]
+  },
+  "kiam-decoration": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-decoration-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-decoration-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-decoration-2400.webp"
+      }
+    ]
+  },
+  "kiam-social": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-social-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-social-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-social-2400.webp"
+      }
+    ]
+  },
+  "kiam-layered": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-layered-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-layered-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-layered-2400.webp"
+      }
+    ]
+  },
+  "kiam-portable-experience": {
+    "width": 4000,
+    "height": 4998,
+    "aspect": 0.80032,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-portable-experience-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-portable-experience-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-portable-experience-2400.webp"
+      }
+    ]
+  },
+  "kiam-concept": {
+    "width": 4096,
+    "height": 4096,
+    "aspect": 1.0,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-concept-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-concept-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-concept-2400.webp"
+      }
+    ]
+  },
+  "kiam-rhino": {
+    "width": 1918,
+    "height": 1198,
+    "aspect": 1.601,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-rhino-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-rhino-1600.webp"
+      },
+      {
+        "width": 1918,
+        "src": "assets/media/kiam-rhino-1918.webp"
+      }
+    ]
+  },
+  "kiam-blender": {
+    "width": 1918,
+    "height": 1198,
+    "aspect": 1.601,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-blender-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-blender-1600.webp"
+      },
+      {
+        "width": 1918,
+        "src": "assets/media/kiam-blender-1918.webp"
+      }
+    ]
+  },
+  "kiam-prototype": {
+    "width": 1445,
+    "height": 1088,
+    "aspect": 1.32812,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-prototype-960.webp"
+      },
+      {
+        "width": 1445,
+        "src": "assets/media/kiam-prototype-1445.webp"
+      }
+    ]
+  },
+  "kiam-post": {
+    "width": 1918,
+    "height": 1198,
+    "aspect": 1.601,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-post-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-post-1600.webp"
+      },
+      {
+        "width": 1918,
+        "src": "assets/media/kiam-post-1918.webp"
+      }
+    ]
+  },
+  "kiam-portable": {
+    "width": 6688,
+    "height": 3764,
+    "aspect": 1.77683,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-portable-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-portable-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-portable-2400.webp"
+      }
+    ]
+  },
+  "kiam-floor": {
+    "width": 2500,
+    "height": 1407,
+    "aspect": 1.77683,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-floor-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-floor-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-floor-2400.webp"
+      }
+    ]
+  },
+  "kiam-two-portable": {
+    "width": 2500,
+    "height": 2892,
+    "aspect": 0.86445,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-two-portable-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-two-portable-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-two-portable-2400.webp"
+      }
+    ]
+  },
+  "kiam-two-floor": {
+    "width": 2500,
+    "height": 3124,
+    "aspect": 0.80026,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-two-floor-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-two-floor-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-two-floor-2400.webp"
+      }
+    ]
+  },
+  "kiam-character": {
+    "width": 3000,
+    "height": 2250,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-character-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-character-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-character-2400.webp"
+      }
+    ]
+  },
+  "kiam-technical": {
+    "width": 3493,
+    "height": 1441,
+    "aspect": 2.42401,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-technical-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-technical-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-technical-2400.webp"
+      }
+    ]
+  },
+  "kiam-exploded": {
+    "width": 5000,
+    "height": 4175,
+    "aspect": 1.1976,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-exploded-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-exploded-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-exploded-2400.webp"
+      }
+    ]
+  },
+  "kiam-dimension-portable": {
+    "width": 9934,
+    "height": 5874,
+    "aspect": 1.69118,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-dimension-portable-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-dimension-portable-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-dimension-portable-2400.webp"
+      }
+    ]
+  },
+  "kiam-dimension-floor": {
+    "width": 9933,
+    "height": 14043,
+    "aspect": 0.70733,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-dimension-floor-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-dimension-floor-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-dimension-floor-2400.webp"
+      }
+    ]
+  },
+  "kiam-feature-touch": {
+    "width": 3000,
+    "height": 3000,
+    "aspect": 1.0,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-feature-touch-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-feature-touch-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-feature-touch-2400.webp"
+      }
+    ]
+  },
+  "kiam-feature-portable": {
+    "width": 3000,
+    "height": 3000,
+    "aspect": 1.0,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-feature-portable-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-feature-portable-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-feature-portable-2400.webp"
+      }
+    ]
+  },
+  "kiam-feature-battery": {
+    "width": 3000,
+    "height": 3000,
+    "aspect": 1.0,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-feature-battery-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-feature-battery-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-feature-battery-2400.webp"
+      }
+    ]
+  },
+  "kiam-feature-usbc": {
+    "width": 3000,
+    "height": 3000,
+    "aspect": 1.0,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-feature-usbc-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-feature-usbc-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-feature-usbc-2400.webp"
+      }
+    ]
+  },
+  "kiam-gathering": {
+    "width": 2500,
+    "height": 1664,
+    "aspect": 1.5024,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-gathering-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-gathering-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-gathering-2400.webp"
+      }
+    ]
+  },
+  "kiam-motion": {
+    "width": 2000,
+    "height": 1500,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-motion-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-motion-1600.webp"
+      },
+      {
+        "width": 2000,
+        "src": "assets/media/kiam-motion-2000.webp"
+      }
+    ]
+  },
+  "kiam-quiet": {
+    "width": 3344,
+    "height": 1882,
+    "aspect": 1.77683,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-quiet-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-quiet-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-quiet-2400.webp"
+      }
+    ]
+  },
+  "kiam-architecture": {
+    "width": 2896,
+    "height": 2172,
+    "aspect": 1.33333,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-architecture-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-architecture-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-architecture-2400.webp"
+      }
+    ]
+  },
+  "kiam-features-scene": {
+    "width": 3000,
+    "height": 3749,
+    "aspect": 0.80021,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/kiam-features-scene-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/kiam-features-scene-1600.webp"
+      },
+      {
+        "width": 2400,
+        "src": "assets/media/kiam-features-scene-2400.webp"
+      }
+    ]
+  },
+  "convivo-component-vertical": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-vertical-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-vertical-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-vertical-2376.webp"
+      }
+    ]
+  },
+  "convivo-component-shelf": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-shelf-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-shelf-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-shelf-2376.webp"
+      }
+    ]
+  },
+  "convivo-component-cabinet": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-cabinet-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-cabinet-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-cabinet-2376.webp"
+      }
+    ]
+  },
+  "convivo-component-sanitary": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-sanitary-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-sanitary-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-sanitary-2376.webp"
+      }
+    ]
+  },
+  "convivo-component-appliances": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-appliances-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-appliances-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-appliances-2376.webp"
+      }
+    ]
+  },
+  "convivo-component-counter": {
+    "width": 2376,
+    "height": 1441,
+    "aspect": 1.64885,
+    "variants": [
+      {
+        "width": 960,
+        "src": "assets/media/convivo-component-counter-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "assets/media/convivo-component-counter-1600.webp"
+      },
+      {
+        "width": 2376,
+        "src": "assets/media/convivo-component-counter-2376.webp"
+      }
+    ]
+  }
+}
