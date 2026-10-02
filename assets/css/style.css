@@ -401,6 +401,46 @@ button { font: inherit; color: inherit; }
 .next-copy span { font-size: 10px; text-transform: uppercase; letter-spacing: .12em; }
 .next-copy h2 { margin: .5rem 0 0; font-size: clamp(4rem, 11vw, 12rem); font-weight: 400; line-height: .82; letter-spacing: -.07em; }
 
+/* OASIS — project-specific editorial system. */
+.oasis-case { --oasis-green:#6f7843; --oasis-clay:#a45030; --oasis-sand:#ded0b8; }
+.oasis-case .project-hero-media img { width:100%; object-fit:cover; object-position:center; }
+.oasis-case .oasis-reveal img { object-fit:cover; }
+.oasis-case .oasis-manifesto { color:#f4f0e8; background:var(--oasis-green); }
+.oasis-intro-frame { margin-bottom:clamp(3rem,7vw,7rem); }
+.oasis-context-frame,.oasis-base-study { margin-top:clamp(3rem,7vw,7rem); }
+.oasis-about-image { max-width:min(72vw,1050px); background:transparent; }
+.oasis-trend-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1px; background:var(--line); }
+.oasis-trend-card { min-height:72svh; padding:clamp(1.2rem,2.4vw,2.8rem); background:var(--project-bg); display:flex; flex-direction:column; }
+.oasis-trend-card img { width:100%; aspect-ratio:4/5; object-fit:cover; margin-bottom:clamp(2rem,4vw,4rem); }
+.oasis-trend-card span { font-size:10px; letter-spacing:.12em; }
+.oasis-trend-card h3 { max-width:12ch; margin:auto 0 1.2rem; font-size:clamp(2rem,3.5vw,4rem); line-height:.95; font-weight:400; letter-spacing:-.045em; }
+.oasis-trend-card p { max-width:31rem; color:var(--muted); }
+.oasis-prototypes .section-head p,.oasis-prototypes .prototype-stage p { color:#aaa8a1; }
+.prototype-stage { display:grid; grid-template-columns:minmax(14rem,.55fr) minmax(0,1.45fr); gap:clamp(2rem,6vw,7rem); padding:clamp(3rem,7vw,7rem) 0; border-top:1px solid rgba(255,255,255,.24); }
+.prototype-stage > div:first-child { position:sticky; top:calc(var(--nav-h) + 2rem); align-self:start; }
+.prototype-stage span { font-size:10px; letter-spacing:.12em; }
+.prototype-stage h3 { max-width:12ch; margin:1rem 0; font-size:clamp(2rem,4vw,4.5rem); line-height:.95; font-weight:400; letter-spacing:-.045em; }
+.prototype-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:clamp(.7rem,1.4vw,1.4rem); }
+.prototype-grid img { width:100%; aspect-ratio:3/4; object-fit:cover; background:#24231f; }
+.oasis-cmf-story { background:#ece7dd; color:#171713; }
+.oasis-cmf-story .story-steps { background:#ece7dd; }
+.oasis-cmf-story .sticky-media { background:#d7cbb8; }
+.oasis-cmf-story .sticky-media img { object-fit:cover; }
+.oasis-cmf-intro { padding-bottom:clamp(3rem,7vw,7rem); }
+.oasis-technical .media-full { background:#f4f2ed; }
+.oasis-assembly .media-full { background:#d9c29a; }
+.oasis-assembly .media-full img { width:100%; }
+.oasis-config-grid { display:grid; grid-template-columns:1fr; gap:clamp(5rem,10vw,10rem); }
+.oasis-config-grid figure { margin:0; }
+.oasis-config-grid img { width:100%; height:auto; object-fit:contain; background:#d9d0c2; }
+.oasis-config-grid figcaption { display:grid; grid-template-columns:.7fr 1.3fr; gap:2rem; padding-top:1.2rem; border-top:1px solid var(--line); }
+.oasis-config-grid h3 { margin:0; font-size:clamp(1.8rem,3.4vw,3.8rem); line-height:.98; font-weight:400; letter-spacing:-.04em; }
+.oasis-config-grid p { max-width:36rem; margin:0; color:var(--muted); }
+.oasis-closing > img { object-fit:cover; }
+.oasis-closing .object-experience-copy { max-width:48rem; }
+.oasis-case .next-project { width:100%; min-height:91svh; }
+.oasis-case .next-project img { width:100%; object-fit:cover; object-position:center; }
+
 .reveal { opacity: 0; transform: translateY(28px); transition: opacity .9s var(--ease), transform .9s var(--ease); }
 .reveal.is-visible { opacity: 1; transform: none; }
 
@@ -499,6 +539,18 @@ button { font: inherit; color: inherit; }
   .media-caption { grid-template-columns: 1fr; }
   .media-caption span:last-child { justify-self: start; text-align: left; }
   .insight-row { grid-template-columns: 1fr; gap: .5rem; }
+  .oasis-trend-grid { grid-template-columns:1fr; }
+  .oasis-case .project-hero-media img { object-fit:contain; object-position:center; }
+  .oasis-case .oasis-reveal img { width:100%; height:auto; object-fit:contain; object-position:center; }
+  .oasis-trend-card { min-height:0; }
+  .oasis-about-image { max-width:100%; }
+  .prototype-stage { grid-template-columns:1fr; }
+  .prototype-stage > div:first-child { position:static; }
+  .prototype-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .oasis-cmf-story .sticky-media img { object-fit:contain; }
+  .oasis-config-grid figcaption { grid-template-columns:1fr; }
+  .oasis-case .next-project { display:block; min-height:0; background:#0b0b0b; }
+  .oasis-case .next-project img { position:relative; inset:auto; width:100%; height:auto; }
 }
 
 @media (prefers-reduced-motion: reduce) {
